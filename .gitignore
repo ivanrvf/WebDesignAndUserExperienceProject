@@ -2,6 +2,7 @@
 job-portal/node_modules
 
 /server/node_modules
+/server/package-lock.json
 /server2/node_modules
 /server3/node_modules
 
@@ -13,6 +14,7 @@ job-portal/node_modules
 /job-portal/tsconfig.json
 /job-portal/tslint.json
 /job-portal/dist/
+
 #other generated files for server2
 /server2/.idea/jsLibraryMappings.xml
 /server2/.idea/misc.xml
@@ -21,7 +23,7 @@ job-portal/node_modules
 /server2/.idea/server2.iml
 /server2/.idea/vcs.xml
 /server2/.idea/workspace.xml
-
+/server2/package-lock.json
 
 /server3/.idea/jsLibraryMappings.xml
 /server3/.idea/misc.xml
