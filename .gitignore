@@ -6,6 +6,9 @@ job-portal/node_modules
 /server2/node_modules
 /server3/node_modules
 
+# Ignore json files
+*.json
+
 # Package
 /job-portal/.editorconfig
 /job-portal/package.json
